@@ -1,0 +1,9 @@
+{"id":"s1","name":"Polo Blanco Clásico","category":"shirts","image":"/white-polo-shirt.png","isCustom":false}
+{"id":"s2","name":"Polo Negro Premium","category":"shirts","image":"/black-polo-shirt.png","isCustom":false}
+{"id":"p1","name":"Pantalón Negro Formal","category":"pants","image":"/black-formal-pants.jpg","isCustom":false}
+{"id":"p2","name":"Jeans Azul Clásico","category":"pants","image":"/classic-blue-jeans.png","isCustom":false}
+{"id":"sh1","name":"Zapatos Negros Formales","category":"shoes","image":"/black-formal-shoes.jpg","isCustom":false}
+{"id":"sh2","name":"Sneakers Blancos","category":"shoes","image":"/white-sneakers.png","isCustom":false}
+{"id":"j1","name":"Chaqueta Negra Cuero","category":"jackets","image":"/black-leather-jacket.png","isCustom":false}
+{"id":"j2","name":"Blazer Azul Marino","category":"jackets","image":"/navy-blazer.png","isCustom":false}
+{"id":"custom-1765522855062","name":"fvb","category":"shirts","image":"/garments/1765522855061_fvb.jpg","isCustom":true}
